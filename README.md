@@ -12,3 +12,11 @@ Manejo de tipo de variables, cadenas, if, for, while
 
 - resultado
 ![Captura de pantalla 2024-09-06 083133](https://github.com/user-attachments/assets/5e0cabaa-2982-4d36-9dae-63c487438c7a)
+
+## If 
+- cuando es verdadero
+  ![Captura de pantalla 2024-09-06 085527](https://github.com/user-attachments/assets/5fcef332-5977-45cc-9b8f-d975e845474d)
+
+- cuando es falso
+  
+![Captura de pantalla 2024-09-06 085637](https://github.com/user-attachments/assets/d8f47c65-986d-4cf7-978c-e8809eeabaad)
